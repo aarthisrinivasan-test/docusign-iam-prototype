@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/docusign-iam-prototype/static/css/main.a2346243.css",
+    "main.js": "/docusign-iam-prototype/static/js/main.3e98355e.js",
+    "static/js/453.f63d5be5.chunk.js": "/docusign-iam-prototype/static/js/453.f63d5be5.chunk.js",
+    "index.html": "/docusign-iam-prototype/index.html",
+    "main.a2346243.css.map": "/docusign-iam-prototype/static/css/main.a2346243.css.map",
+    "main.3e98355e.js.map": "/docusign-iam-prototype/static/js/main.3e98355e.js.map",
+    "453.f63d5be5.chunk.js.map": "/docusign-iam-prototype/static/js/453.f63d5be5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2346243.css",
+    "static/js/main.3e98355e.js"
+  ]
+}
